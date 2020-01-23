@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: netflix-zuul-api-gateway-server
+Implementation-Version: 2.1.5
+Built-By: Akanksha.Jaiswal
+Implementation-Vendor-Id: com.demo.microservices
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/netflix-zuul-api-gateway-server
+Created-By: Maven Integration for Eclipse
+
